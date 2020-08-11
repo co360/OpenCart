@@ -1,0 +1,66 @@
+@font-face{
+    font-family: GiloryExtra;
+    src: url(../fonts/Gilroy-ExtraBold.otf);
+}
+
+.navbar{
+    font-family: GiloryExtra;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-size: 30px;
+    padding-left: 3%;
+}
+#navbarNavAltMarkup{
+    font-size: 16px;
+    padding-right: 50px;
+}
+.firstpara {
+    font-family: GiloryExtra;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+}
+.secondpara{
+		font-family: GiloryExtra;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(114,109,119,1);
+}
+
+
+.thirdpara{
+
+    font-family: GiloryExtra;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,109,119,1);
+}
+
+.titlesecond{
+	font-family: GiloryExtra;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+    color: #5C3882
+}
+.paragraph{
+
+    font-family: GiloryExtra;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+    color: rgba(114,109,119,1);
+}
+
+.card-title{
+    font-family: GiloryExtra;
+	font-style: normal;
+	font-weight: bold;
+    color: #5C3882
+
+}
